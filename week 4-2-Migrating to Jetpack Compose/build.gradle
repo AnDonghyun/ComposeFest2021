@@ -43,7 +43,7 @@ buildscript {
         materialComposeAdapterVersion = '1.0.4'
         navigationVersion = '2.3.5'
         recyclerViewVersion = '1.2.1'
-        roomVersion = '2.3.0'
+        roomVersion = '2.4.0-rc01'
         runnerVersion = '1.0.1'
         truthVersion = '1.1.2'
         testExtJunit = '1.1.3'
